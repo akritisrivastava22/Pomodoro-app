@@ -81,7 +81,7 @@ const Tags = () => {
         </button>
         <button
           onClick={() => {
-            handleTimer(30);
+            handleTimer(300);
           }}
           className="md:px-20 md:text-2xl text-blue-500 bg-white ml-4 rounded-lg font-bold py-1 text-xl px-6 hover:bg-purple-900 hover:text-white "
         >
