@@ -5,7 +5,7 @@ It is a time management technique based on 25-minute stretches of focused work b
 
 I have used ReactJS, Taileind and HTML in this
 
-### Checkout the live website [here](hhttps://pomodoro-app-pearl.vercel.app/)
+### Checkout the live website [here](https://pomodoro-app-pearl.vercel.app/)
 
 ## How the website looks like
 
